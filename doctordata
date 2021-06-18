@@ -10,8 +10,7 @@
         {
           "id": 1,
           "patientName": "Richard Wilson",
-          "ApptDate": "11 Nov 2020",
-          "ApptTime": "11:00 AM",
+          "ApptDate": "2020-10-11T11:00:00",
           "purpose": "General",
           "Type": "New Patient",
           "paidAmount": "150 $",
@@ -22,8 +21,7 @@
         {
           "id": 2,
           "patientName": "Travis Trimble",
-          "ApptDate": "1 Nov 2020",
-          "ApptTime": "1:00 PM",
+          "ApptDate": "2020-10-11T13:00:00",
           "purpose": "General",
           "Type": "New Patient",
           "paidAmount": "75 $",
@@ -34,8 +32,7 @@
         {
           "id": 3,
           "patientName": "Gina Moore",
-          "ApptDate": "14 Oct 2020",
-          "ApptTime": "9:00 AM",
+          "ApptDate": "2020-10-11T13:00:00",
           "purpose": "General",
           "Type": "Old Patient",
           "paidAmount": "250 $",
@@ -46,8 +43,7 @@
         {
           "id": 4,
           "patientName": "Ashura",
-          "ApptDate": "14 Nov 2020",
-          "ApptTime": "11:00 AM",
+          "ApptDate": "2020-10-14T11:00:00",
           "purpose": "General",
           "Type": "New Patient",
           "paidAmount": "60 $",
@@ -58,8 +54,7 @@
         {
           "id": 5,
           "patientName": "Mihawk",
-          "ApptDate": "14 Nov 2020",
-          "ApptTime": "1:00 PM",
+          "ApptDate": "2020-10-14T13:00:00",
           "purpose": "General",
           "Type": "New Patient",
           "paidAmount": "75 $",
@@ -70,8 +65,7 @@
         {
           "id": 6,
           "patientName": "Potato",
-          "ApptDate": "14 Nov 2020",
-          "ApptTime": "9:00 AM",
+          "ApptDate": "2020-09-10T11:00:00",
           "purpose": "General",
           "Type": "Old Patient",
           "paidAmount": "250 $",
