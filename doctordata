@@ -1,0 +1,85 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "doctorName": "Harsha Vardhan",
+      "TotalPatients": 1800,
+      "TodayPatients": 100,
+      "Appointments": 80,
+      "AllAppointments": [
+        {
+          "id": 1,
+          "patientName": "Richard Wilson",
+          "ApptDate": "11 Nov 2020",
+          "ApptTime": "11:00 AM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "150 $",
+          "location": "Anantapur",
+          "email": "mmhthththt@example.com",
+          "phNo": "999994565"
+        },
+        {
+          "id": 2,
+          "patientName": "Travis Trimble",
+          "ApptDate": "1 Nov 2020",
+          "ApptTime": "1:00 PM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "75 $",
+          "location": "Bangalore",
+          "email": "mgehtm@example.com",
+          "phNo": "995543549"
+        },
+        {
+          "id": 3,
+          "patientName": "Gina Moore",
+          "ApptDate": "14 Oct 2020",
+          "ApptTime": "9:00 AM",
+          "purpose": "General",
+          "Type": "Old Patient",
+          "paidAmount": "250 $",
+          "location": "Vizag",
+          "email": "hhjhersmm@example.com",
+          "phNo": "4654964651"
+        },
+        {
+          "id": 4,
+          "patientName": "Ashura",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "11:00 AM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "60 $",
+          "location": "Bhubaneswar",
+          "email": "mvarvethm@example.com",
+          "phNo": "6666666666"
+        },
+        {
+          "id": 5,
+          "patientName": "Mihawk",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "1:00 PM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "75 $",
+          "location": "Hyderabad",
+          "email": "mfragsethbm@example.com",
+          "phNo": "88888888888"
+        },
+        {
+          "id": 6,
+          "patientName": "Potato",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "9:00 AM",
+          "purpose": "General",
+          "Type": "Old Patient",
+          "paidAmount": "250 $",
+          "location": "Delhi",
+          "email": "mmvrv@example.com",
+          "phNo": "11111111111"
+        }
+      ]
+    }
+  ]
+}
