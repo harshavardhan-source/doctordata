@@ -6,6 +6,64 @@
       "TotalPatients": 1800,
       "TodayPatients": 100,
       "Appointments": 80,
+      "upcomingAppointments": [
+        {
+          "id": 1,
+          "patientName": "Richard Wilson",
+          "ApptDate": "11 Nov 2020",
+          "ApptTime": "11:00 AM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "150 $"
+        },
+        {
+          "id": 2,
+          "patientName": "Travis Trimble",
+          "ApptDate": "1 Nov 2020",
+          "ApptTime": "1:00 PM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "75 $"
+        },
+        {
+          "id": 3,
+          "patientName": "Gina Moore",
+          "ApptDate": "14 Oct 2020",
+          "ApptTime": "9:00 AM",
+          "purpose": "General",
+          "Type": "Old Patient",
+          "paidAmount": "250 $"
+        }
+      ],
+      "todayAppointments": [
+        {
+          "id": 1,
+          "patientName": "Ashura",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "11:00 AM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "60 $"
+        },
+        {
+          "id": 2,
+          "patientName": "Mihawk",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "1:00 PM",
+          "purpose": "General",
+          "Type": "New Patient",
+          "paidAmount": "75 $"
+        },
+        {
+          "id": 3,
+          "patientName": "Potato",
+          "ApptDate": "14 Nov 2020",
+          "ApptTime": "9:00 AM",
+          "purpose": "General",
+          "Type": "Old Patient",
+          "paidAmount": "250 $"
+        }
+      ],
       "AllAppointments": [
         {
           "id": 1,
